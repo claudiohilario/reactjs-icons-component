@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Icon from './components/Icon';
 class App extends Component {
   render() {
     return (
@@ -19,6 +20,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <Icon icon="HOME" size="500" color="red" />
         </header>
       </div>
     );
