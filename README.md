@@ -1,7 +1,7 @@
-# reactjs-icons-component
-É um simples componente desenvolvido em react js para renderizar icons em svg. (Em Desenvolvimento)
+# reactjs-icons-component (Em desenvolvimento)
+É um simples componente desenvolvido em react js para renderizar icons em svg.
 
-# Componente `<Icon />`
+## Componente `<Icon />`
 Provisoriamente o componente terá as seguintes propriedades:
 
 | Propriedades | Tipo   | Descrição                          | Exemplo   |
