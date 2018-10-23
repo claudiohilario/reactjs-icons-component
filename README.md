@@ -12,7 +12,7 @@ Provisoriamente o componente terá as seguintes propriedades:
 
 ## Exemplo de Uso
 
-```
+```js
 <Icon
   icon="HOME"
   size={16}
