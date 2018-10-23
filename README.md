@@ -9,3 +9,13 @@ Provisoriamente o componente terá as seguintes propriedades:
 | icon         | string | Nome da chave que contem o path do icon | `HOME`          |
 | size         | number | Tamanho do icon                    | `16px`    |
 | color        | string | Cor em hexadecimal do icon         | `#ffffff` |
+
+## Exemplo de Uso
+
+```
+<Icon
+  icon="HOME"
+  size={16}
+  color="#000000"
+/>
+```
