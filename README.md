@@ -6,9 +6,9 @@ Provisoriamente o componente terá as seguintes propriedades:
 
 | Propriedades | Tipo   | Descrição                          | Exemplo   |
 |--------------|--------|------------------------------------|-----------|
-| icon         | string | Nome da chave que contem o path do icon | `HOME`          |
-| size         | number | Tamanho do icon                    | `16px`    |
-| color        | string | Cor em hexadecimal do icon         | `#ffffff` |
+| icon         | string | Nome da chave que contem o path do icon | `"HOME"`          |
+| size         | number | Tamanho do icon                    | `16`    |
+| color        | string | Cor em hexadecimal do icon         | `"#ffffff"` |
 
 ## Exemplo de Uso
 
